@@ -3,6 +3,6 @@ A quick, minimal personal website I built from scratch with SASS and Compass, fe
 
 If you want to edit the stylesheet without SASS, just edit style.css in the stylesheets folder.
 
-But all you really need to do for yourself is to edit the content in index.html.
+Edit the content in index.html to personalize it for yourself!
 
 Check it out at www.mdao.site
